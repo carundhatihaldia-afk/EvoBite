@@ -1,2 +1,13 @@
-# EvoBite
-A simple food calories tracking and awareness web application.
+🍽️ EvoBite
+EvoBite is a web-based food application designed to provide users with a simple and interactive way to explore food options.
+🚀 Features
+Easy-to-use interface
+Food exploration
+Interactive user interface
+Responsive web design
+🛠️ Technologies Used
+HTML
+CSS
+JavaScript
+🌐 Live Demo
+https://carundhatihaldia-afk.github.io/EvoBite/
