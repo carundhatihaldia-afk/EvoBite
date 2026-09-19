@@ -10,8 +10,8 @@ Responsive web design
 
 
 🛠️ Technologies Used
-HTML
-CSS
+HTML,
+CSS,
 JavaScript
 
 
